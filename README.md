@@ -21,7 +21,7 @@
 - Swift
 - Dart/Flutter
 
-<img align="left" alt="Brook Jeynes Github Stats" src="https://github-readme-stats.vercel.app/api?username=brookjeynes&show_icons=true&hide_border=true" />
+<img align="left" alt="Brook Jeynes Github Stats" src="https://github-readme-stats.vercel.app/api?username=brookjeynes&show_icons=true&hide_border=true&theme=radical" />
 
 [email]: jeynesbrook@gmail.com
 [youtube]: https://www.youtube.com/channel/UC6CEsZWlyqj0p2e6N_GvF1w
