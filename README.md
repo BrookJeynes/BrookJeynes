@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jeynesbrook@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
 [<img align="left" alt="brook jeynes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="brook_jeynes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
