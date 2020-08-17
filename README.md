@@ -13,13 +13,26 @@
 
 <br />
 
-### Languages:
-- Python/SQLite
-- C# and C++
-- Lisp/Scheme
-- Kotlin
-- Swift
-- Dart/Flutter
+### Education:
+- Certificate 3 in ICT and Networking at TAFE Queensland
+  - Introduction to programming cluster
+  - System administration cluster
+  - Networking cluster
+  - Install and optimise operating system software
+  - Create user documentation
+  
+- Digital Solutions class in school
+
+### Technical Skills:
+- Ability to write and compile applications using Python/SQL, C# and C++
+- Basic understanding of mobile development languages such as Kotlin, Swift and Dart/Flutter
+- Strong erbal and written comunication skills
+- Effective ability to produce useful documentation for code
+
+### Current Projects
+- 
+
+<br />
 
 <img align="left" alt="Brook Jeynes Github Stats" src="https://github-readme-stats.vercel.app/api?username=brookjeynes&show_icons=true&hide_border=true&theme=radical" />
 
