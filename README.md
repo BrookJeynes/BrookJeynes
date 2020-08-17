@@ -26,7 +26,7 @@
 ### Technical Skills:
 - Ability to write and compile applications using Python/SQL, C# and C++
 - Basic understanding of mobile development languages such as Kotlin, Swift and Dart/Flutter
-- Strong erbal and written comunication skills
+- Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
 
 ### Current Projects
