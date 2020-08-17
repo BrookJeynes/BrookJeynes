@@ -25,7 +25,9 @@
 - Effective ability to produce useful documentation for code
 
 ### Current Projects
-- 
+- C# Tafe course (co-author)[csharptutorial]
+- Simple commandline calculator (dart)[dartcalculator]
+- Python hashing tutorial[hashingpython]
 
 <br />
 
@@ -38,3 +40,6 @@
 [email]: jeynesbrook@gmail.com
 [youtube]: https://www.youtube.com/channel/UC6CEsZWlyqj0p2e6N_GvF1w
 [instagram]: https://www.instagram.com/brook_jeynes/
+[csharptutorial]: https://github.com/BrookJeynes/CSharp-Tafe-Course
+[dartcalculator]: https://github.com/BrookJeynes/dart_commandline_calculator
+[hashingpython]: https://github.com/BrookJeynes/python_password_hashing_tutorial
