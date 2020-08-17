@@ -6,6 +6,7 @@
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I play guitar, banjo and piano in my spare time
 
+<br />
 
 ### Education:
 - Certificate 3 in ICT and Networking at TAFE Queensland
@@ -17,6 +18,7 @@
   
 - Digital Solutions class in school
 
+<br />
 
 ### Technical Skills:
 - Ability to write and compile applications using Python/SQL, C# and C++
@@ -24,7 +26,9 @@
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
 
-### Current Projects
+<br />
+
+### Projects
 - C# Tafe course (co-author)
 - Dart commandline calculator 
 - Python hashing tutorial
