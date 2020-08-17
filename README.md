@@ -34,9 +34,9 @@
 [<img align="left" alt="brook jeynes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="brook_jeynes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align="left" alt="Brook Jeynes Github Stats" src="https://github-readme-stats.vercel.app/api?username=brookjeynes&show_icons=true&hide_border=true&theme=radical" />
-
 <br />
+
+<img align="left" alt="Brook Jeynes Github Stats" src="https://github-readme-stats.vercel.app/api?username=brookjeynes&show_icons=true&hide_border=true&theme=radical" />
 
 [email]: jeynesbrook@gmail.com
 [youtube]: https://www.youtube.com/channel/UC6CEsZWlyqj0p2e6N_GvF1w
