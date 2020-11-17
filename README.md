@@ -16,7 +16,8 @@
   - Install and optimise operating system software
   - Create user documentation
   
-- Digital Solutions class in school
+- Completed year 12 certificate
+  - Took Digital Solutions class in school
 
 <br />
 
