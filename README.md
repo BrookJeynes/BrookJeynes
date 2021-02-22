@@ -3,7 +3,6 @@
 ## I'm a student studying Computer Science, Cyber Security and Quantum Computation!
 - I’m currently working on many school related projects
 - I’m looking for jobs related to the topics mentioned above
-- 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I play guitar, banjo and piano in my spare time
 
 <br />
