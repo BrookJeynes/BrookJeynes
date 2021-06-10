@@ -1,6 +1,6 @@
 ### Hey I'm Brook :)
 
-## I'm a student studying Computer Science, Cyber Security and Quantum Computation!
+## I'm a student studying Computer Science, Cyber Security and intelligent Syste!
 - I’m currently working on many school related projects
 - I’m looking for jobs related to the topics mentioned above
 - Fun fact: I play guitar, banjo and piano in my spare time
@@ -18,10 +18,12 @@
 - Completed year 12 certificate
   - Took Digital Solutions class in school
 
+- Bachelor of Computer Science at QUT (Currently enrolled)
+
 <br />
 
 ### Technical Skills:
-- Ability to write and compile applications using Python/SQL, C# and C++
+- Ability to write and compile applications using Python/SQL, C#, C and C++
 - Basic understanding of mobile development languages such as Kotlin, Swift and Dart/Flutter
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
@@ -42,5 +44,4 @@
 
 
 [email]: jeynesbrook@gmail.com
-[youtube]: https://www.youtube.com/channel/UC6CEsZWlyqj0p2e6N_GvF1w
 [instagram]: https://www.instagram.com/brook_jeynes/
