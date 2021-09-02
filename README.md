@@ -1,8 +1,8 @@
 ### Hey I'm Brook :)
 
-## I'm a student studying Computer Science, Cyber Security and intelligent Syste!
-- I’m currently working on many school related projects
-- I’m looking for jobs related to the topics mentioned above
+## I'm a student studying Computer Science at QUT (Queensland University of Technology)
+- I’m currently working on many uni related projects as well as home projects
+- I’m looking for jobs related to computer science, software development and quantum computation
 - Fun fact: I play guitar, banjo and piano in my spare time
 
 <br />
@@ -23,25 +23,20 @@
 <br />
 
 ### Technical Skills:
-- Ability to write and compile applications using Python/SQL, C#, C and C++
-- Basic understanding of mobile development languages such as Kotlin, Swift and Dart/Flutter
+- Ability to write and compile applications using Python/SQL, C#, C, HTML/CSS/Javascript and ReactJS/React Native
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
+- Basic understanding on networking principles and windows server
 
-<br />
-
-### Projects
-- C# Tafe course (co-author)
-- Dart commandline calculator 
-- Python hashing tutorial
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="brook jeynes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="brook jeynes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="brook jeynes | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="brook_jeynes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[linkedin]: https://www.linkedin.com/in/brook-jeynes-64556b210/
 [email]: jeynesbrook@gmail.com
 [instagram]: https://www.instagram.com/brook_jeynes/
