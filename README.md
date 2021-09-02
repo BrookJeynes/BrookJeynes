@@ -27,6 +27,7 @@
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
 - Basic understanding on networking principles and windows server
+- Basic understanding of Computer Systems (Linux {Debian, Ubuntu, Arch}, Windows, Mac)
 
 
 <br />
