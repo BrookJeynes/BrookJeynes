@@ -1,8 +1,8 @@
-### Hey I'm Brook :)
+### Hey I'm Brook Jeynes
 
-## I'm a student studying Computer Science at QUT (Queensland University of Technology)
+## I'm a software engineer currently in my second year at QUT studying computer science.
 - I’m currently working on many uni related projects as well as home projects
-- I’m looking for jobs related to computer science, software development and quantum computation
+- I’m currently working at TestLab360 as a React Native and C#/Angular developer
 - Fun fact: I play guitar, banjo and piano in my spare time
 
 <br />
@@ -18,16 +18,21 @@
 - Completed year 12 certificate
   - Took Digital Solutions class in school
 
-- Bachelor of Computer Science at QUT (Currently enrolled)
+- Bachelor of Computer Science at QUT (Currently enrolled | Second year)
 
 <br />
 
 ### Technical Skills:
-- Ability to write and compile applications using Python/SQL, C#, C, HTML/CSS/Javascript and ReactJS/React Native
+- Ability to write and compile applications using 
+  - Python, 
+  - C# & C, 
+  - HTML/CSS/Javascript
+  - ReactJS/React Native
+  - Angular
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
-- Basic understanding on networking principles and windows server
-- Basic understanding of Computer Systems (Linux {Debian, Ubuntu, Arch}, Windows, Mac)
+- Understanding on networking principles and windows server
+- Understanding of Computer Systems (Linux {Debian, Ubuntu, Arch}, Windows, Mac)
 
 
 <br />
