@@ -25,7 +25,7 @@
 ### Technical Skills:
 - Ability to write and compile applications using 
   - Python, 
-  - C# & C, 
+  - C# & C
   - HTML/CSS/Javascript
   - ReactJS/React Native
   - Angular
