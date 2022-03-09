@@ -1,9 +1,9 @@
 ### Hey I'm Brook Jeynes
 
 ## I'm a software developer currently in my second year at QUT studying computer science.
-- I’m currently working at TestLab360 as a React Native and C#/Angular developer
+- I’m currently working at TestLab360 as a React Native developer
 - I’m currently working on many uni related projects as well as home projects
-- Fun fact: I play guitar, banjo and piano in my spare time
+- Fun fact: I play guitar and piano in my spare time
 
 <br />
 
@@ -29,7 +29,6 @@
   - Java
   - HTML/CSS/Javascript
   - ReactJS/React Native
-  - Angular
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
 - Understanding on networking principles and windows server
