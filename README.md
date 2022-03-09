@@ -39,10 +39,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="brook jeynes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="brook jeynes | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="brook_jeynes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://www.linkedin.com/in/brook-jeynes-64556b210/
-[email]: jeynesbrook@gmail.com
-[instagram]: https://www.instagram.com/brook_jeynes/
+<div id="badges">
+  <a href="https://www.linkedin.com/in/brook-jeynes-64556b210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="jeynesbrook@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.instagram.com/brook_jeynes/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
