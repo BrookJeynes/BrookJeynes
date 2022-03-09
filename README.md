@@ -1,14 +1,20 @@
-### Hey I'm Brook Jeynes
 
-## I'm a software developer currently in my second year at QUT studying computer science.
+### Hey, I'm Brook Jeynes. 
+
+---
+
+### About me
+- I'm a software developer currently in my second year at QUT studying computer science
 - I’m currently working at TestLab360 as a React Native developer
-- I’m currently working on many uni related projects as well as home projects
-- Fun fact: I play guitar and piano in my spare time
+- In my spare time I enjoy reading, making music or tinkering and working on home projects
+- Currently studying computer science, software development and mathematics in relation to programming
 
-<br />
+---
 
 ### Education:
-- Certificate 3 in ICT and Networking at TAFE Queensland
+- Current enrolment in a Bachelor of Computer Science course at QUT (GPA 6.75)
+
+- Complete certificate 3 in ICT and Networking at TAFE Queensland
   - Introduction to programming cluster
   - System administration cluster
   - Networking cluster
@@ -16,26 +22,30 @@
   - Create user documentation
   
 - Completed year 12 certificate
-  - Took Digital Solutions class in school
 
-- Bachelor of Computer Science at QUT (Currently enrolled | Second year)
-
-<br />
+---
 
 ### Technical Skills:
 - Ability to write and compile applications using 
   - Python, 
-  - C# & C
-  - Java
-  - HTML/CSS/Javascript
+  - C# & C,
+  - Java,
+  - HTML/CSS/Javascript,
   - ReactJS/React Native
 - Strong verbal and written communication skills
 - Effective ability to produce useful documentation for code
-- Understanding on networking principles and windows server
-- Understanding of Computer Systems (Linux {Debian, Ubuntu, Arch}, Windows, Mac)
+- Understanding of networking principles and windows server
+- Understanding of Computer Systems (Linux {Debian, Ubuntu, Arch}, Windows, MacOS)
 
+---
 
-<br />
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
+
+[![Brooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Connect with me:
 
