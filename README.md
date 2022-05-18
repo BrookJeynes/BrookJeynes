@@ -4,10 +4,10 @@
 ---
 
 ### About me
-- I'm a software developer currently in my second year at QUT studying computer science
-- I’m currently working at TestLab360 as a React Native developer
+- I'm in my second year at QUT studying computer science
+- I’m currently working at SSW as a Senior Software developer
 - In my spare time I enjoy reading, making music or tinkering and working on home projects
-- Currently studying computer science, software development and mathematics in relation to programming
+- I'm currently studying computer science, software development and mathematics in relation to programming
 
 ---
 
@@ -42,9 +42,9 @@
 
 ### My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
-
 [![Brooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
 
 ---
 
