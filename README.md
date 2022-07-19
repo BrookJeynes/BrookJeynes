@@ -5,14 +5,16 @@
 
 ### About me
 - I'm in my second year at QUT studying computer science
-- I’m currently working at SSW as a Senior Software developer
+- I’m currently working at SSW as a Software developer
 - In my spare time I enjoy reading, making music or tinkering and working on home projects
 - I'm currently studying computer science, software development and mathematics in relation to programming
 
 ---
 
 ### Education:
-- Current enrolment in a Bachelor of Computer Science course at QUT (GPA 6.75)
+- Current enrolment in a Bachelor of Computer Science course at QUT
+  - IoT and Mobile Technologies
+  - Data-Centric Computing Extension
 
 - Complete certificate 3 in ICT and Networking at TAFE Queensland
   - Introduction to programming cluster
