@@ -44,15 +44,11 @@
 
 ### My Stats:
 
-<div>
-  <div style="display: flex; justify-content: center">
-    [![Brooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+[![Brooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
 
-  <div style="display: flex; justify-content: center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
-  </div>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrookJeynes&show_icons=true&locale=en&theme=nord" alt="name" />
 
 
 ---
