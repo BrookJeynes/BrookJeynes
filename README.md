@@ -48,9 +48,6 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrookJeynes&show_icons=true&locale=en&theme=nord" alt="name" />
-
-
 ---
 
 ### Connect with me:
