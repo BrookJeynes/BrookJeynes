@@ -44,9 +44,11 @@
 
 ### My Stats:
 
-[![Brooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD922B)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord&hide_border=true" width="90%"></a>
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD922B" width="90%"></a>
+</div>
+
 
 ---
 
