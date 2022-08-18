@@ -29,7 +29,7 @@
 - I’m currently working at SSW as a Software developer
 
 
-- In my spare time I enjoy reading, making music or tinkering and working on home projects
+- In my spare time I enjoy learning new technologies, drawing or writing music
 
 
 - I'm currently studying computer science, software development and mathematics in relation to programming
