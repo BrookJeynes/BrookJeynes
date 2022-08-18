@@ -15,8 +15,6 @@
   </a>
 </div>
 
----
-
 <br />
 
 <div align="center">
@@ -34,7 +32,7 @@
 
 - I'm currently studying computer science, software development and mathematics in relation to programming
 
----
+<br />
 
 <div align="center">
   <h1>Education</h1>
@@ -55,7 +53,7 @@
   
 - Completed year 12 certificate
 
----
+<br />
 
 <div align="center">
   <h1>Technical Skills</h1>
@@ -80,7 +78,7 @@
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
----
+<br />
 
 <div align="center">
   <h1>My Stats</h1>
@@ -90,6 +88,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord&hide_border=true" width="90%"></a>
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD922B" width="90%"></a>
 </div>
-
-
----
