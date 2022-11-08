@@ -1,10 +1,3 @@
-
-<div align="center">
-  <h1>Hey, I'm Brook Jeynes</h1>
-</div>
-
-<br />
-
 <div align="center">
   <h1>About me</h1>
 </div>
@@ -17,27 +10,6 @@
 
 - In my spare time I enjoy learning new technologies and writing music
 
-
-<br />
-
-<div align="center">
-  <h1>Education</h1>
-</div>
-
-- Current enrolment in a Bachelor of Computer Science course at QUT
-  - IoT and Mobile Technologies
-  - Data-Centric Computing Extension
-
-
-- Complete certificate 3 in ICT and Networking at TAFE Queensland
-  - Introduction to programming cluster
-  - System administration cluster
-  - Networking cluster
-  - Install and optimise operating system software
-  - Create user documentation
-  
-  
-- Completed year 12 certificate
 
 <br />
 
@@ -67,10 +39,20 @@
 <br />
 
 <div align="center">
-  <h1>My Stats</h1>
+  <h1>Education</h1>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=BrookJeynes&show_icons=true&theme=nord&hide_border=true" width="90%"></a>
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BrookJeynes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD922B" width="90%"></a>
-</div>
+- Current enrolment in a Bachelor of Computer Science course at QUT
+  - IoT and Mobile Technologies
+  - Data-Centric Computing Extension
+
+
+- Complete certificate 3 in ICT and Networking at TAFE Queensland
+  - Introduction to programming cluster
+  - System administration cluster
+  - Networking cluster
+  - Install and optimise operating system software
+  - Create user documentation
+  
+  
+- Completed year 12 certificate
