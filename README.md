@@ -21,16 +21,14 @@
   <h1>About me</h1>
 </div>
 
-- I'm in my second year at QUT studying computer science
+- I'm in my second year at QUT studying computer science studying computer science
 
 
 - I’m currently working at SSW as a Software developer
 
 
-- In my spare time I enjoy learning new technologies, drawing or writing music
+- In my spare time I enjoy learning new technologies and writing music
 
-
-- I'm currently studying computer science, software development and mathematics in relation to programming
 
 <br />
 
