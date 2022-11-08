@@ -3,18 +3,6 @@
   <h1>Hey, I'm Brook Jeynes</h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/brook-jeynes-64556b210/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="jeynesbrook@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.instagram.com/brook_jeynes/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
 <br />
 
 <div align="center">
