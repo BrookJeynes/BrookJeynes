@@ -2,7 +2,7 @@
   <h1>About me</h1>
 </div>
 
-- I'm in my second year at QUT studying computer science studying computer science
+- I'm studying computer science at QUT
 
 
 - I’m currently working at SSW as a Software developer
@@ -43,8 +43,6 @@
 </div>
 
 - Current enrolment in a Bachelor of Computer Science course at QUT
-  - IoT and Mobile Technologies
-  - Data-Centric Computing Extension
 
 
 - Complete certificate 3 in ICT and Networking at TAFE Queensland
