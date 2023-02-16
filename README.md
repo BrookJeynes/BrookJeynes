@@ -1,3 +1,3 @@
-Hi, I'm Brook, an aussie software developer specialising in Rust, Golang, Javascript/Typescript and .NET
+Hi, I'm Brook, an aussie software developer predominantly writing programs in Rust, Elixir, Golang, Typescript, and .NET
 
-Apart from programming, I also love playing games and writing music (guitar).
+Apart from programming, I enjoy playing tabletop/video games and writing music (guitar).
