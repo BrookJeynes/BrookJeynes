@@ -1,3 +1,3 @@
-An Aussie software developer usually creating things in Rust, C, Zig and Typescript.
+An Aussie software developer exploring low-level programming.
 
-I also enjoy hiking and writing music.
+I also enjoy hiking, bouldering, and writing music.
