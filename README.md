@@ -1,3 +1,3 @@
-I’m Brook, an Aussie software developer exploring low-level programming and concepts alike.
+i’m brook, just a tech.
 
-I also enjoy hiking, bouldering, and playing music in my spare time.
+I enjoy hiking, bouldering, and playing music.
